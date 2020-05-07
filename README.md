@@ -1,5 +1,5 @@
 # xcat-helper
-This is a helper script for the xcat program
+This is a helper script for the xcat program, it works along with the default parameter file
 
 
 ## Arguments:
