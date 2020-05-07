@@ -1,5 +1,5 @@
 # xcat-helper
-This is a helper script for the xcat program, it works along with the default parameter file
+This is a helper script for the xcat program, it works along with the default parameter file "general.samp.par, in which several parameters can be adjusted, such as respiration period.
 
 
 ## Arguments:
